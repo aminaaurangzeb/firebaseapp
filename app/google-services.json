@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81979184954",
+    "project_id": "trader-23fe4",
+    "storage_bucket": "trader-23fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81979184954:android:e918ba464030acadd1a203",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81979184954-j3a8ejin2ld28pofc6n24tli51466qg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJFZz6G3vMQiNNzRUluQU33_FjwuJi8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81979184954-j3a8ejin2ld28pofc6n24tli51466qg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
